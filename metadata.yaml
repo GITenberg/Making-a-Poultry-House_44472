@@ -1,0 +1,26 @@
+_repo: Making-a-Poultry-House_44472
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44472-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Conover, Mary Roberts
+    birthdate: 1880
+    gutenberg_agent_id: '42778'
+    url: http://www.gutenberg.org/2009/agents/42778
+description: ''
+gutenberg_issued: '2013-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44472'
+  lccn: '12013921'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poultry -- Housing'
+- !lcc 'SF'
+title: Making a Poultry House
+url: http://www.gutenberg.org/ebooks/44472
