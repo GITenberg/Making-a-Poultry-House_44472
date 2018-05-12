@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '42778'
     url: http://www.gutenberg.org/2009/agents/42778
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44472#Making-a-Poultry-House
 gutenberg_issued: '2013-12-20'
 gutenberg_type: Text
 identifiers:
